@@ -1,0 +1,10 @@
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\bin\Debug\FormPrac1.exe.config
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\bin\Debug\FormPrac1.exe
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\bin\Debug\FormPrac1.pdb
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.csproj.AssemblyReference.cache
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.Form1.resources
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.Properties.Resources.resources
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.csproj.GenerateResource.cache
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.csproj.CoreCompileInputs.cache
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.exe
+C:\Users\marm_\Documents\Git\Prac1\FormPrac1\obj\Debug\FormPrac1.pdb

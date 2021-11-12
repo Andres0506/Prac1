@@ -6,7 +6,7 @@
     <Name>BDMercamax</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{750b6127-c903-4ce0-bddd-cfc295ec157c}</ProjectGuid>
+    <ProjectGuid>{36955ff8-b069-4ca0-83d7-6028c45f17b2}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -58,6 +58,22 @@
     <Folder Include="Properties" />
   </ItemGroup>
   <ItemGroup>
+    <Build Include="Proveedor.sql" />
+    <Build Include="Tipo_Producto.sql" />
     <Build Include="Producto.sql" />
+    <Build Include="Cliente.sql" />
+    <Build Include="Personal.sql" />
+    <Build Include="Facturacion.sql" />
+    <Build Include="Venta.sql" />
+    <Build Include="LugarStock.sql" />
+    <Build Include="Login.sql" />
+    <Build Include="LoginCliente.sql" />
+    <Build Include="VerProductos.sql" />
+    <Build Include="VerPuntos.sql" />
+    <Build Include="VerProductoBodega.sql" />
+    <Build Include="VerProductoGondola.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BDMercamax.publish.xml" />
   </ItemGroup>
 </Project>

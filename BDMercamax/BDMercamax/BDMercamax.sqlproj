@@ -56,6 +56,8 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="vista" />
+    <Folder Include="procedimientos" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Proveedor.sql" />
@@ -72,6 +74,17 @@
     <Build Include="VerPuntos.sql" />
     <Build Include="VerProductoBodega.sql" />
     <Build Include="VerProductoGondola.sql" />
+    <Build Include="vista\VerPorductoPrecio.sql" />
+    <Build Include="vista\VerClientes.sql" />
+    <Build Include="vista\GetCountFacturas.sql" />
+    <Build Include="procedimientos\ActualizarGondola.sql" />
+    <Build Include="procedimientos\ActualizarPuntos.sql" />
+    <Build Include="procedimientos\CrearCliente.sql" />
+    <Build Include="procedimientos\CrearFactura.sql" />
+    <Build Include="procedimientos\GetIvaPuntos.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="BDMercamax.refactorlog" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BDMercamax.publish.xml" />

@@ -1,3 +1,3 @@
 ﻿CREATE VIEW [dbo].[VerProductos]
 	AS
-	SELECT nombre_producto,precio FROM Producto
+	SELECT nombre_producto, precio FROM Producto

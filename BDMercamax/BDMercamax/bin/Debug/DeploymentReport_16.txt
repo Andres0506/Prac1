@@ -10,25 +10,6 @@
 
 ** Acciones del usuario
      Crear
-       [dbo].[Cliente] (Tabla)
-       [dbo].[Facturacion] (Tabla)
-       [dbo].[LugarStock] (Tabla)
-       [dbo].[Personal] (Tabla)
-       [dbo].[Producto] (Tabla)
-       [dbo].[Proveedor] (Tabla)
-       [dbo].[Tipo_Producto] (Tabla)
-       [dbo].[Venta] (Tabla)
-       [dbo].[FK_Facturacion_ToTable] (Clave externa)
-       [dbo].[FK_Facturacion_ToTable_1] (Clave externa)
-       [dbo].[FK_Facturacion_ToTable_2] (Clave externa)
-       [dbo].[FK_Producto_ToTable] (Clave externa)
-       [dbo].[FK_Producto_ToTable_1] (Clave externa)
-       [dbo].[FK_Venta_ToTable] (Clave externa)
        [dbo].[VerProductos] (Vista)
-       [dbo].[Login] (Procedimiento)
-       [dbo].[LoginCliente] (Procedimiento)
-       [dbo].[VerProductoBodega] (Procedimiento)
-       [dbo].[VerProductoGondola] (Procedimiento)
-       [dbo].[VerPuntos] (Procedimiento)
 
 ** Acciones de compatibilidad

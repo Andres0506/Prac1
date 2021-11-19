@@ -1,64 +1,13 @@
 ﻿** Aspectos destacados
      Tablas que se volverán a compilar
-       [dbo].[Cliente]
+       Ninguno
      Índices clúster que se van a quitar
        Ninguno
      Índices clúster que se van a crear
        Ninguno
      Posibles incidencias de datos
-       Se está quitando la columna [dbo].[Cliente].[fecha_nacimiento_cliente]; puede que se pierdan datos.
-       Debe agregarse la columna [dbo].[Cliente].[email_cliente] de la tabla [dbo].[Cliente], pero esta columna no tiene un
-         valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
-         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
-         generación de valores predeterminados inteligentes como opción de implementación.
-       Debe agregarse la columna [dbo].[Cliente].[fecha_nacimiento] de la tabla [dbo].[Cliente], pero esta columna no tiene un
-         valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
-         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
-         generación de valores predeterminados inteligentes como opción de implementación.
-       Se está quitando la columna [dbo].[LugarStock].[seccion_bodega]; puede que se pierdan datos.
-       Se está quitando la columna [dbo].[LugarStock].[seccion_gondola]; puede que se pierdan datos.
-       Debe agregarse la columna [dbo].[LugarStock].[sección_bodega] de la tabla [dbo].[LugarStock], pero esta columna no tiene
-         un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
-         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
-         generación de valores predeterminados inteligentes como opción de implementación.
-       Debe agregarse la columna [dbo].[LugarStock].[sección_gondola] de la tabla [dbo].[LugarStock], pero esta columna no
-         tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para
-         evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o
-         habilite la generación de valores predeterminados inteligentes como opción de implementación.
-       Debe agregarse la columna [dbo].[Tipo_Producto].[puntos] de la tabla [dbo].[Tipo_Producto], pero esta columna no tiene
-         un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar
-         esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la
-         generación de valores predeterminados inteligentes como opción de implementación.
+       Ninguno
 
 ** Acciones del usuario
-     Nueva compilación de tablas
-       [dbo].[Cliente] (Tabla)
-     Modificar
-       [dbo].[LugarStock] (Tabla)
-       [dbo].[Tipo_Producto] (Tabla)
-     Crear
-       [dbo].[Producto] (Tabla)
-       [dbo].[FK_Producto_ToTable] (Clave externa)
-       [dbo].[FK_Producto_ToTable_1] (Clave externa)
-       [dbo].[VerProductos] (Vista)
-       [dbo].[VerProductoBodega] (Procedimiento)
-       [dbo].[VerProductoGondola] (Procedimiento)
-       [dbo].[VerPuntos] (Procedimiento)
 
 ** Acciones de compatibilidad
-     Quitar
-       [dbo].[FK_Facturacion_ToTable] (Clave externa)
-     Crear
-       [dbo].[FK_Facturacion_ToTable] (Clave externa)
-     Actualizar
-       [dbo].[LoginCliente] (Procedimiento)
-
-Se está quitando la columna [dbo].[Cliente].[fecha_nacimiento_cliente]; puede que se pierdan datos.
-Debe agregarse la columna [dbo].[Cliente].[email_cliente] de la tabla [dbo].[Cliente], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
-Debe agregarse la columna [dbo].[Cliente].[fecha_nacimiento] de la tabla [dbo].[Cliente], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
-Se está quitando la columna [dbo].[LugarStock].[seccion_bodega]; puede que se pierdan datos.
-Se está quitando la columna [dbo].[LugarStock].[seccion_gondola]; puede que se pierdan datos.
-Debe agregarse la columna [dbo].[LugarStock].[sección_bodega] de la tabla [dbo].[LugarStock], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
-Debe agregarse la columna [dbo].[LugarStock].[sección_gondola] de la tabla [dbo].[LugarStock], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
-Debe agregarse la columna [dbo].[Tipo_Producto].[puntos] de la tabla [dbo].[Tipo_Producto], pero esta columna no tiene un valor predeterminado y no admite valores NULL. Si la tabla contiene datos, el script ALTER no funcionará. Para evitar esta incidencia, agregue un valor predeterminado a la columna, márquela de modo que permita valores NULL o habilite la generación de valores predeterminados inteligentes como opción de implementación.
-

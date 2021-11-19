@@ -8,14 +8,15 @@ D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\bi
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\Model.xml
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\refactor.xml
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
 D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\predeploy.sql
-D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
-D:\Users\Usuario\Desktop\prac1\prac2\Pedro-Moreno-Uribe\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
-C:\Users\Andres\Downloads\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
-C:\Users\Andres\Downloads\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
-C:\Users\Andres\Downloads\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
-C:\Users\Andres\Downloads\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
-C:\Users\Andres\Downloads\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+C:\Users\Andres\Downloads\BDMercamax (2)\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
